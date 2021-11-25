@@ -9,4 +9,4 @@ Then you can run it by `hoursworked` command.
 
 ## Contributing
 
-You can watch the repo and contribute in https://github.com/RRicardotj/hoursworked.git
+You can see the repo and contribute in https://github.com/RRicardotj/hoursworked.git
