@@ -1,0 +1,18 @@
+{
+  "name": "hoursworked",
+  "version": "1.0.0",
+  "description": "An app to calc the hours worked",
+  "main": "cli.js",
+  "bin": {
+    "hoursworked": "cli.js"
+  },
+  "author": "RRicardo el coder",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "start": "node cli.js"
+  }
+}
